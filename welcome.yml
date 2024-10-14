@@ -1,1 +1,3 @@
-msg:Mayur Bhosale
+welcome:
+  message: "Welcome to the Config Client Application!"
+  appName: "ConnectServer"
